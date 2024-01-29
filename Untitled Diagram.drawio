@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T21:18:01.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tY0eSqPK1xQQTsOFUuH5" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T21:20:12.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dY1cKHYkS_rsl8rgYzWT" version="23.0.2" type="github">
   <diagram name="Page-1" id="dD4_CoJYMB0uU98CG4sT">
-    <mxGraphModel dx="2163" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,11 +159,13 @@
         <mxCell id="hmFmc8ImomV1dm50FQ4L-279" value="Data Subnets (a,b,c)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="-339.15781818181824" y="269" width="300.5032727272727" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="HgwNsyoJ7DHciYoYNact-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hmFmc8ImomV1dm50FQ4L-288" target="hmFmc8ImomV1dm50FQ4L-29">
+        <mxCell id="HgwNsyoJ7DHciYoYNact-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmFmc8ImomV1dm50FQ4L-288">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420.945" y="-121" as="sourcePoint" />
+            <mxPoint x="-175.82000000000022" y="-281" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-401" y="-139" />
-              <mxPoint x="-156" y="-139" />
+              <mxPoint x="-400" y="-139" />
+              <mxPoint x="-176" y="-139" />
             </Array>
           </mxGeometry>
         </mxCell>
