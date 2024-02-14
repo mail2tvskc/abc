@@ -1,9 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T18:01:52.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.2" etag="ifFhf1EUlIsvLpxuX1-2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T21:31:34.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="H9nr9Qr56eAE2uHaijXA" version="23.1.4" type="github">
   <diagram name="Page-1" id="qIRBGNeEuQPL4gtT3FXu">
-    <mxGraphModel>
+    <mxGraphModel dx="1400" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-1" target="kiwSoaL1CipaXlIqw5B5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-5" value="zScaler" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-3">
+          <mxGeometry x="-0.2218" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-1" target="kiwSoaL1CipaXlIqw5B5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-8" value="Cloud VPN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-7">
+          <mxGeometry x="-0.1933" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-1" value="How User is currently accessing OnePI Apps ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-2" value="No Impact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#985252;" vertex="1" parent="1">
+          <mxGeometry x="290" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-9" target="kiwSoaL1CipaXlIqw5B5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-37" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-36">
+          <mxGeometry x="-0.1049" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-9" value="Do you have any &lt;br&gt;issues using zScaler ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="340" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-10" target="kiwSoaL1CipaXlIqw5B5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-10" value="Document the issue and work with Optum IT Help Desk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="362.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-18" target="kiwSoaL1CipaXlIqw5B5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-28">
+          <mxGeometry x="-0.0187" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-18" target="kiwSoaL1CipaXlIqw5B5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-41" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-40">
+          <mxGeometry x="-0.1091" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-18" value="Issue Resolution is taking &lt;br&gt;more than a week ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="480" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-22" target="kiwSoaL1CipaXlIqw5B5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-22" value="Inform Product Owner&amp;nbsp; (It ticket number, summary of the status)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-30" target="kiwSoaL1CipaXlIqw5B5-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-30" value="Product Owner to consolidate issues and engage Operations Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="372.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-9" target="kiwSoaL1CipaXlIqw5B5-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="480" as="sourcePoint" />
+            <mxPoint x="105" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-35" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiwSoaL1CipaXlIqw5B5-34">
+          <mxGeometry x="-0.4514" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-32" value="No Impact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#985252;" vertex="1" parent="1">
+          <mxGeometry x="45" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-42" value="Operations Manager will work with &lt;br&gt;Optum IT and CMS Seurity Team until issue Resolution" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillStyle=auto;fillColor=#cdc1c1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-44" target="kiwSoaL1CipaXlIqw5B5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-46" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;gradientColor=#ee2020;" vertex="1" parent="1">
+          <mxGeometry x="515" y="175" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="kiwSoaL1CipaXlIqw5B5-42" target="kiwSoaL1CipaXlIqw5B5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiwSoaL1CipaXlIqw5B5-48" value="CMS VPN Connectivity Issue Workflow &lt;br&gt;CMS Cloud VPN to zScaler Migration&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
