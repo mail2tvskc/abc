@@ -291,7 +291,7 @@
           <mxGeometry x="10.020000000000007" y="192" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2TqV5L-OIbQZ4kk36m6-425" value="CMS OnePI Implementation of Apache Icebert Tables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="72" y="5" width="690" height="50" as="geometry" />
+          <mxGeometry x="72" y="26" width="690" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
