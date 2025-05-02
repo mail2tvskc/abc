@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1869" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2430" dy="2181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="3PIqhCygmyD64lUC_BlA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="-801" as="targetPoint" />
+            <mxPoint x="-416" y="-766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="ORG Requests the StorageAccess from One PI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-50" y="-821" width="170" height="40" as="geometry" />
+          <mxGeometry x="-636" y="-786" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -19,13 +19,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;Does&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ORG has&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;their own&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Account ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="538" y="-658" width="160" height="100" as="geometry" />
+          <mxGeometry x="-48" y="-623" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="One PI will Create the Spacein One PI S3 Bucket." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="-628" width="160" height="40" as="geometry" />
+          <mxGeometry x="-246" y="-593" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
@@ -33,35 +33,35 @@
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="618" y="-340" />
-              <mxPoint x="455" y="-340" />
-              <mxPoint x="455" y="-357" />
+              <mxPoint x="32" y="-305" />
+              <mxPoint x="-131" y="-305" />
+              <mxPoint x="-131" y="-322" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Can ORG provide Read/Write Access to ORG&#39;s S3 bucket to One PI Snowflake ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="538" y="-524" width="160" height="144" as="geometry" />
+          <mxGeometry x="-48" y="-489" width="160" height="144" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="ORG Will work with the One PICloudOps team to establish CrossAccount IAM role" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="198" y="-390" width="175" height="66" as="geometry" />
+          <mxGeometry x="-388" y="-355" width="175" height="66" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-0" target="3PIqhCygmyD64lUC_BlA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-0" value="One PI will create a Storage Integration pointing to the S3Bucket" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="101" y="-633" width="210" height="50" as="geometry" />
+          <mxGeometry x="-485" y="-598" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-2" target="3PIqhCygmyD64lUC_BlA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-2" value="One PI will provide theCreate External Stageprivilege to ORG" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-47.5" y="-638" width="120" height="60" as="geometry" />
+          <mxGeometry x="-633.5" y="-603" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-4" target="3PIqhCygmyD64lUC_BlA-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-4" value="ORG Can Upload/Download files into the External Stage using Snowflake Features. Notebooks, Streamlits, SnowSQL,Snowflake CLI etc.," style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-67.5" y="-520" width="160" height="110" as="geometry" />
+          <mxGeometry x="-653.5" y="-485" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.539;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-11" value="Users upload/download files" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="316" y="-979" width="120" height="38" as="geometry" />
+          <mxGeometry x="-270" y="-944" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-15" target="3PIqhCygmyD64lUC_BlA-23">
           <mxGeometry relative="1" as="geometry" />
@@ -79,19 +79,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-15" value="&amp;nbsp;If One PI&amp;nbsp;&lt;div&gt;provides a&amp;nbsp;&lt;/div&gt;&lt;div&gt;Snowflake Service Account, Can the ORG System&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;connect to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Snowflake?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="694.5" y="-871" width="150" height="141" as="geometry" />
+          <mxGeometry x="108.5" y="-836" width="150" height="141" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-17" target="3PIqhCygmyD64lUC_BlA-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-17" value="No additional work is needed.&amp;nbsp; ORG System should use Snowflake internal stages to work with files" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="707" y="-1001.5" width="125" height="87" as="geometry" />
+          <mxGeometry x="121" y="-966.5" width="125" height="87" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="764" y="-901" width="40" height="30" as="geometry" />
+          <mxGeometry x="178" y="-866" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-22" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="783" y="-730" width="40" height="30" as="geometry" />
+          <mxGeometry x="197" y="-695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-23" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-23" value="Can the ORG&amp;nbsp;&lt;div&gt;system push/pull&amp;nbsp;&lt;/div&gt;&lt;div&gt;files to S3&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="745" y="-674" width="120" height="132" as="geometry" />
+          <mxGeometry x="159" y="-639" width="120" height="132" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="3PIqhCygmyD64lUC_BlA-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,97 +109,97 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-26" value="Is there a existing ADM for the ORG ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="-855" width="95" height="110" as="geometry" />
+          <mxGeometry x="-416" y="-820" width="95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-28" target="3PIqhCygmyD64lUC_BlA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-28" value="Initiate ADM Onboarding process" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="157.5" y="-997" width="120" height="60" as="geometry" />
+          <mxGeometry x="-428.5" y="-962" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="213" y="-905" width="40" height="30" as="geometry" />
+          <mxGeometry x="-373" y="-870" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="865" y="-635" width="40" height="30" as="geometry" />
+          <mxGeometry x="279" y="-600" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="705" y="-633" width="40" height="30" as="geometry" />
+          <mxGeometry x="119" y="-598" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-40" target="3PIqhCygmyD64lUC_BlA-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-40" value="No additional work is needed.&amp;nbsp; ORG users should use Snowflake internal stages to work with files.&amp;nbsp; ADM roles has required permissions to work with Snowflake Internal Stages" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="466" y="-1003" width="210" height="84.5" as="geometry" />
+          <mxGeometry x="-120" y="-968" width="210" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-44" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-144" y="-828" width="52" height="54" as="geometry" />
+          <mxGeometry x="-730" y="-793" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-46" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="191" y="-1087" width="52" height="54" as="geometry" />
+          <mxGeometry x="-395" y="-1052" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-48" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="545" y="-1087" width="52" height="54" as="geometry" />
+          <mxGeometry x="-41" y="-1052" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-50" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="743.5" y="-1086" width="52" height="54" as="geometry" />
+          <mxGeometry x="157.5" y="-1051" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-52" target="3PIqhCygmyD64lUC_BlA-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-52" value="ORG needs to work with One PI CloudOps team to establish common staging area via CMS EFT where both systems can exchange files." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="897" y="-987" width="155" height="109" as="geometry" />
+          <mxGeometry x="311" y="-952" width="155" height="109" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-54" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="948.5" y="-1085.5" width="52" height="54" as="geometry" />
+          <mxGeometry x="362.5" y="-1050.5" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-56" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-13.5" y="-370" width="52" height="54" as="geometry" />
+          <mxGeometry x="-599.5" y="-335" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-2" target="nIjDBjGS9_q5QeTpwMJb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-2" target="3PIqhCygmyD64lUC_BlA-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="336" y="-900" as="targetPoint" />
+            <mxPoint x="-250" y="-865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-2" value="Will Users upload/download files ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="-855" width="104" height="110" as="geometry" />
+          <mxGeometry x="-262" y="-820" width="104" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373" y="-905" width="40" height="30" as="geometry" />
+          <mxGeometry x="-213" y="-870" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-8" target="3PIqhCygmyD64lUC_BlA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-8" value="ORG System upload/download files" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="476" y="-822" width="120" height="43" as="geometry" />
+          <mxGeometry x="-110" y="-787" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="428" y="-827" width="40" height="30" as="geometry" />
+          <mxGeometry x="-158" y="-792" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="-829" width="40" height="30" as="geometry" />
+          <mxGeometry x="-321" y="-794" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="-480" width="40" height="30" as="geometry" />
+          <mxGeometry x="-166" y="-445" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="558.5" y="-370" width="40" height="30" as="geometry" />
+          <mxGeometry x="-27.5" y="-335" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-25" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="615" y="-558" width="40" height="30" as="geometry" />
+          <mxGeometry x="29" y="-523" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="-635" width="40" height="30" as="geometry" />
+          <mxGeometry x="-86" y="-600" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="974" y="-757.9999999999999" as="targetPoint" />
+            <mxPoint x="388" y="-722.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-28" target="nIjDBjGS9_q5QeTpwMJb-31">
@@ -209,25 +209,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-28" value="Is Landing&amp;nbsp;&lt;div&gt;area for ORG is within CMS Network&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="919" y="-658" width="110" height="100" as="geometry" />
+          <mxGeometry x="333" y="-623" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-31" target="3PIqhCygmyD64lUC_BlA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-31" value="Can the&amp;nbsp;&lt;div&gt;ORG System connect to CMS EFT&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Service ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="919" y="-829" width="111" height="122" as="geometry" />
+          <mxGeometry x="333" y="-794" width="111" height="122" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="967" y="-697" width="40" height="30" as="geometry" />
+          <mxGeometry x="381" y="-662" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="969" y="-861" width="40" height="30" as="geometry" />
+          <mxGeometry x="383" y="-826" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-37" target="3PIqhCygmyD64lUC_BlA-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1072" y="-471" />
-              <mxPoint x="1072" y="-932" />
+              <mxPoint x="486" y="-436" />
+              <mxPoint x="486" y="-897" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -235,38 +235,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-37" value="Can ORG&amp;nbsp;&lt;div&gt;work with CMS&amp;nbsp;&lt;/div&gt;&lt;div&gt;EFT team&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="919" y="-521" width="110" height="100" as="geometry" />
+          <mxGeometry x="333" y="-486" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="969" y="-558" width="40" height="30" as="geometry" />
+          <mxGeometry x="383" y="-523" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-41" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1030" y="-500" width="40" height="30" as="geometry" />
+          <mxGeometry x="444" y="-465" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-42" target="nIjDBjGS9_q5QeTpwMJb-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-42" value="ORG needs to work with One PI CloudOps team to define the process and present to TRB for guidance.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="867" y="-385" width="214" height="71" as="geometry" />
+          <mxGeometry x="281" y="-350" width="214" height="71" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-44" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="969" y="-421" width="40" height="30" as="geometry" />
+          <mxGeometry x="383" y="-386" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-45" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="745" y="-376" width="52" height="54" as="geometry" />
+          <mxGeometry x="159" y="-341" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-31" target="nIjDBjGS9_q5QeTpwMJb-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="-768" as="sourcePoint" />
-            <mxPoint x="1081" y="-349" as="targetPoint" />
+            <mxPoint x="444" y="-733" as="sourcePoint" />
+            <mxPoint x="495" y="-314" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1101" y="-768" />
-              <mxPoint x="1101" y="-350" />
+              <mxPoint x="515" y="-733" />
+              <mxPoint x="515" y="-315" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1094" y="-650" width="40" height="30" as="geometry" />
+          <mxGeometry x="508" y="-615" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-51" value="One PI Storage Solutioons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-223" y="-1160" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
