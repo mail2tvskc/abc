@@ -268,8 +268,8 @@
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="508" y="-615" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nIjDBjGS9_q5QeTpwMJb-51" value="One PI Storage Solutioons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-223" y="-1160" width="460" height="60" as="geometry" />
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-51" value="One PI Storage Solutioons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=48;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-288" y="-1154" width="590" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
