@@ -1,14 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2564" dy="2266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="3PIqhCygmyD64lUC_BlA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="3PIqhCygmyD64lUC_BlA-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74" y="-836" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="ORG Requests the StorageAccess from One PI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="-844" width="170" height="40" as="geometry" />
+          <mxGeometry x="-146" y="-855" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -23,7 +25,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;Does&lt;/div&gt;&lt;div&gt;ORG has&lt;/div&gt;&lt;div&gt;their own&lt;/div&gt;&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Account ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="538" y="-658" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="3PIqhCygmyD64lUC_BlA-0">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="One PI will Create the Spacein One PI S3 Bucket." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -46,140 +48,155 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="ORG Will work with the One PICloudOps team to establish CrossAccount IAM role" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="45" y="-424" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-0" target="3PIqhCygmyD64lUC_BlA-2">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-0" target="3PIqhCygmyD64lUC_BlA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-0" value="One PI will create a Storage Integration pointing to the S3Bucket" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-0" value="One PI will create a Storage Integration pointing to the S3Bucket" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="101" y="-633" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-2" target="3PIqhCygmyD64lUC_BlA-4">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-2" target="3PIqhCygmyD64lUC_BlA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-2" value="One PI will provide theCreate External Stageprivilege to ORG" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-2" value="One PI will provide theCreate External Stageprivilege to ORG" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-47.5" y="-638" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-4" target="3PIqhCygmyD64lUC_BlA-56">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-4" target="3PIqhCygmyD64lUC_BlA-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-4" value="ORG Can Upload/Download files into the External Stage using Snowflake Features. Notebooks, Streamlits, SnowSQL,Snowflake CLI etc.," style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-4" value="ORG Can Upload/Download files into the External Stage using Snowflake Features. Notebooks, Streamlits, SnowSQL,Snowflake CLI etc.," style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-247" y="-663" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="3PIqhCygmyD64lUC_BlA-0">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-10" target="3PIqhCygmyD64lUC_BlA-11">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3PIqhCygmyD64lUC_BlA-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="-824" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PIqhCygmyD64lUC_BlA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-11" target="3PIqhCygmyD64lUC_BlA-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-10" target="3PIqhCygmyD64lUC_BlA-13">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-11" value="Users" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="-964.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-13" target="3PIqhCygmyD64lUC_BlA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-10" value="How ORG wants to interacts with the files ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="-890" width="90" height="130" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-13" value="ORG System assumes Service Account" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-842" width="80" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-11" target="3PIqhCygmyD64lUC_BlA-40">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-15" target="3PIqhCygmyD64lUC_BlA-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-11" value="Users" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="-964.5" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-13" target="3PIqhCygmyD64lUC_BlA-15">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-15" target="3PIqhCygmyD64lUC_BlA-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-13" value="Systems" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="604" y="-855" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-15" target="3PIqhCygmyD64lUC_BlA-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-15" target="3PIqhCygmyD64lUC_BlA-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-15" value="&amp;nbsp;Can the System access Snowflake Stages ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-15" value="&amp;nbsp;Can the System access Snowflake Stages ?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="-904" width="90" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-17" target="3PIqhCygmyD64lUC_BlA-50">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-17" target="3PIqhCygmyD64lUC_BlA-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-17" value="No additional work is needed.&amp;nbsp; ORG System should use Snowflake internal stages to work with files" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-17" value="No additional work is needed.&amp;nbsp; ORG System should use Snowflake internal stages to work with files" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="915" y="-867" width="125" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="860" y="-856" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-22" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-22" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="-729" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3PIqhCygmyD64lUC_BlA-52">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3PIqhCygmyD64lUC_BlA-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="-609" as="sourcePoint" />
             <mxPoint x="905" y="-608.952380952381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-23" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-23" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-23" value="Can the system push/pull files to S3&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-23" value="Can the system push/pull files to S3&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="745" y="-675" width="120" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="3PIqhCygmyD64lUC_BlA-28">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="3PIqhCygmyD64lUC_BlA-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="3PIqhCygmyD64lUC_BlA-10">
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="nIjDBjGS9_q5QeTpwMJb-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-26" value="Is there a existing ADM for the ORG ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="-880" width="95" height="110" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-26" value="Is there a existing ADM for the ORG ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="74" y="-890" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-28" target="3PIqhCygmyD64lUC_BlA-46">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-28" target="3PIqhCygmyD64lUC_BlA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-28" value="Initiate ADM Onboarding process" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307.5" y="-985" width="120" height="60" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-28" value="Initiate ADM Onboarding process" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="61.5" y="-997" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="-910" width="40" height="30" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="114" y="-922" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="411" y="-854" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="865" y="-646" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="705" y="-633" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-40" target="3PIqhCygmyD64lUC_BlA-48">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-40" target="3PIqhCygmyD64lUC_BlA-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-40" value="No additional work is needed.&amp;nbsp; ORG users should use Snowflake internal stages to work with files.&amp;nbsp; ADM roles has required permissions to work with Snowflake Internal Stages" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-40" value="No additional work is needed.&amp;nbsp; ORG users should use Snowflake internal stages to work with files.&amp;nbsp; ADM roles has required permissions to work with Snowflake Internal Stages" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="564" y="-1002" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-44" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-44" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6" y="-851" width="52" height="54" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="-862" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-46" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="341" y="-1075" width="52" height="54" as="geometry" />
+        <mxCell id="3PIqhCygmyD64lUC_BlA-46" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="95" y="-1087" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-48" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-48" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="813" y="-974" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-50" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-50" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="-852" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-52" target="3PIqhCygmyD64lUC_BlA-54">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-52" target="3PIqhCygmyD64lUC_BlA-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-52" value="ORG needs to work with One PI CloudOps team to establish common staging area like CMS EFT, IDM where both systems can exchange files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-52" value="ORG needs to work with One PI CloudOps team to establish common staging area like CMS EFT, IDM where both systems can exchange files" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="909" y="-663.5" width="155" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-54" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-54" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1090" y="-637" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-56" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-56" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-340" y="-635" width="52" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-2" target="3PIqhCygmyD64lUC_BlA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="-947" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nIjDBjGS9_q5QeTpwMJb-2" target="nIjDBjGS9_q5QeTpwMJb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-2" value="Will Users upload/download files ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="-890" width="104" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="-943" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-8" value="ORG System upload/download files" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="-857" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjDBjGS9_q5QeTpwMJb-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="-863" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
