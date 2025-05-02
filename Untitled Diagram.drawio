@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2722" dy="2365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="ORG Requests the StorageAccess from One PI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-50" y="-820" width="170" height="40" as="geometry" />
+          <mxGeometry x="-50" y="-821" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -18,7 +18,7 @@
         <mxCell id="nIjDBjGS9_q5QeTpwMJb-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;Does&lt;/div&gt;&lt;div&gt;ORG has&lt;/div&gt;&lt;div&gt;their own&lt;/div&gt;&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Account ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;Does&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ORG has&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;their own&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Account ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="538" y="-658" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
@@ -63,7 +63,7 @@
         <mxCell id="3PIqhCygmyD64lUC_BlA-4" value="ORG Can Upload/Download files into the External Stage using Snowflake Features. Notebooks, Streamlits, SnowSQL,Snowflake CLI etc.," style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-67.5" y="-520" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3PIqhCygmyD64lUC_BlA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
+        <mxCell id="3PIqhCygmyD64lUC_BlA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.539;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="3PIqhCygmyD64lUC_BlA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-11" target="3PIqhCygmyD64lUC_BlA-40" edge="1">
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-23" value="Can the ORG&amp;nbsp;&lt;div&gt;system push/pull&amp;nbsp;&lt;/div&gt;&lt;div&gt;files to S3&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="745" y="-675" width="120" height="132" as="geometry" />
+          <mxGeometry x="745" y="-674" width="120" height="132" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3PIqhCygmyD64lUC_BlA-26" target="3PIqhCygmyD64lUC_BlA-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-144" y="-827" width="52" height="54" as="geometry" />
+          <mxGeometry x="-144" y="-828" width="52" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3PIqhCygmyD64lUC_BlA-46" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="191" y="-1087" width="52" height="54" as="geometry" />
