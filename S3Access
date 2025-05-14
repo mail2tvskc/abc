@@ -1,41 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="Page-1" id="MggW96CM6NWC7pf3hSl8">
-    <mxGraphModel dx="2008" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-339" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-727" y="-1090" width="1470" height="1000" as="geometry" />
+          <mxGeometry x="-727" y="-1082" width="1470" height="910" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-340" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="503" y="-967" width="80" height="80" as="geometry" />
+          <mxGeometry x="503" y="-1015" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-341" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="28" y="-967" width="80" height="80" as="geometry" />
+          <mxGeometry x="28" y="-1015" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-342" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-617" y="-220" width="80" height="80" as="geometry" />
+          <mxGeometry x="-518" y="-302" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-343" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="243" y="-211.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="243" y="-293.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-344" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="263" y="-967" width="80" height="80" as="geometry" />
+          <mxGeometry x="263" y="-1015" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-345" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-367" y="-967" width="80" height="80" as="geometry" />
+          <mxGeometry x="-367" y="-1015" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-346" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-347" target="a5I0SfgL3sO7LRwmwsKF-349" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-347" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-567" y="-967" width="120" height="80" as="geometry" />
+          <mxGeometry x="-567" y="-1011" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-349" target="a5I0SfgL3sO7LRwmwsKF-352" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-349" value="ORG Requests the StorageAccess from One Pl" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-567" y="-672" width="120" height="60" as="geometry" />
+          <mxGeometry x="-567" y="-754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-350" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-352" target="a5I0SfgL3sO7LRwmwsKF-354" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,13 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-352" value="Is there a existing ADM for ORG?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-367" y="-707" width="80" height="130" as="geometry" />
+          <mxGeometry x="-367" y="-789" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-353" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-354" target="a5I0SfgL3sO7LRwmwsKF-345" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-354" value="One PI will Initiate the ADM Onboarding process for ORG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-387" y="-817" width="120" height="50" as="geometry" />
+          <mxGeometry x="-387" y="-899" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-355" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-358" target="a5I0SfgL3sO7LRwmwsKF-360" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,25 +62,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-358" value="&lt;div&gt;Will Users (upload/download) files?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-207" y="-707" width="130" height="130" as="geometry" />
+          <mxGeometry x="-207" y="-789" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-359" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-360" target="a5I0SfgL3sO7LRwmwsKF-362" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-360" value="Users upload/download files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-202" y="-797" width="120" height="40" as="geometry" />
+          <mxGeometry x="-202" y="-879" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-361" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-362" target="a5I0SfgL3sO7LRwmwsKF-341" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-362" value="No additional work is needed. ORG users should use Snowflake internal stages to work with files. ADM roles has required" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="-817" width="170" height="80" as="geometry" />
+          <mxGeometry x="-17" y="-899" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-363" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-364" target="a5I0SfgL3sO7LRwmwsKF-367" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-364" value="ORG System upload/download files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13" y="-672" width="120" height="60" as="geometry" />
+          <mxGeometry x="13" y="-754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-365" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-367" target="a5I0SfgL3sO7LRwmwsKF-369" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -89,13 +89,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-367" value="&lt;div&gt;If One PI&amp;nbsp;&lt;/div&gt;&lt;div&gt;provides a&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Snowflake&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Service Account, Can the ORG System connect to Snowflake?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="223" y="-707" width="160" height="130" as="geometry" />
+          <mxGeometry x="223" y="-789" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-368" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-369" target="a5I0SfgL3sO7LRwmwsKF-344" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-369" value="No additional work is needed. ORG System should use Snowflake internal stages to work with files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="213" y="-817" width="180" height="60" as="geometry" />
+          <mxGeometry x="213" y="-899" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-370" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-372" target="a5I0SfgL3sO7LRwmwsKF-375" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-372" value="Can the ORG system push/pull files to S3" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="223" y="-540" width="160" height="130" as="geometry" />
+          <mxGeometry x="223" y="-622" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-373" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-375" target="a5I0SfgL3sO7LRwmwsKF-377" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,53 +113,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-375" value="Does ORG has their own CMS AWS Account ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="-540" width="160" height="130" as="geometry" />
+          <mxGeometry x="-17" y="-622" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-376" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-377" target="a5I0SfgL3sO7LRwmwsKF-379" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-377" value="One PI will Create the Folder in One PI S3 Bucket." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-237" y="-505" width="120" height="60" as="geometry" />
+          <mxGeometry x="-183" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-378" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-379" target="a5I0SfgL3sO7LRwmwsKF-381" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-379" value="One PI will Create the External Storage Integration pointing to S3 Bucket/Folder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-437" y="-505" width="120" height="60" as="geometry" />
+          <mxGeometry x="-338" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-380" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-381" target="a5I0SfgL3sO7LRwmwsKF-383" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-381" value="One PI will provide the Create External Stage privilege (to ORG) which can point to the newly created storage integration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-667" y="-505" width="180" height="60" as="geometry" />
+          <mxGeometry x="-568" y="-587" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-382" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-383" target="a5I0SfgL3sO7LRwmwsKF-342" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-383" value="ORG Can Upload/Download files into the External Stage using Snowflake Features. Notebooks, Streamlits, SnowSQL, Snowflake CLI etc.," style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-667" y="-390" width="180" height="95" as="geometry" />
+          <mxGeometry x="-568" y="-472" width="180" height="95" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-384" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-385" target="a5I0SfgL3sO7LRwmwsKF-379" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-385" value="ORG Can work with the One PI CloudOps team to establish CrossAccount IAM role." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-437" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="-338" y="-462" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a5I0SfgL3sO7LRwmwsKF-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-388" edge="1">
+        <mxCell id="a5I0SfgL3sO7LRwmwsKF-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-388" edge="1" target="a5I0SfgL3sO7LRwmwsKF-377">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-167" y="-440" as="targetPoint" />
+            <mxPoint x="-167" y="-522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-388" target="a5I0SfgL3sO7LRwmwsKF-385" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="63" y="-150" />
-              <mxPoint x="-377" y="-150" />
+              <mxPoint x="63" y="-232" />
+              <mxPoint x="-278" y="-232" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-388" value="Can ORG provide Read/Write Access to&amp;nbsp;&lt;div&gt;ORG&#39;s S3 bucket to One PI Snowflake ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="-360" width="160" height="160" as="geometry" />
+          <mxGeometry x="-17" y="-442" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-389" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-391" target="a5I0SfgL3sO7LRwmwsKF-394" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-391" value="Is Landing area for ORG is within CMS Network?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="463" y="-540" width="160" height="130" as="geometry" />
+          <mxGeometry x="463" y="-622" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-392" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-394" target="a5I0SfgL3sO7LRwmwsKF-399" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -176,22 +176,22 @@
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-420" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-394" target="a5I0SfgL3sO7LRwmwsKF-401" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="623" y="-640" />
-              <mxPoint x="683" y="-640" />
-              <mxPoint x="683" y="-170" />
-              <mxPoint x="650" y="-170" />
-              <mxPoint x="650" y="-171" />
+              <mxPoint x="623" y="-722" />
+              <mxPoint x="683" y="-722" />
+              <mxPoint x="683" y="-252" />
+              <mxPoint x="650" y="-252" />
+              <mxPoint x="650" y="-253" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-394" value="Can the ORG System connect to CMS EFT Service ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="463" y="-707" width="160" height="130" as="geometry" />
+          <mxGeometry x="463" y="-789" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="a5I0SfgL3sO7LRwmwsKF-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-397" target="a5I0SfgL3sO7LRwmwsKF-399" edge="1">
+        <mxCell id="a5I0SfgL3sO7LRwmwsKF-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.916;entryY=0.968;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-397" target="a5I0SfgL3sO7LRwmwsKF-399" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643" y="-310" />
-              <mxPoint x="643" y="-802" />
+              <mxPoint x="640" y="-392" />
+              <mxPoint x="640" y="-839" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -199,78 +199,78 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-397" value="Can ORG work with CMS EFT team ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="463" y="-375" width="160" height="130" as="geometry" />
+          <mxGeometry x="463" y="-457" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-398" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-399" target="a5I0SfgL3sO7LRwmwsKF-340" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-399" value="ORG needs to work with One PI CloudOps team to establish common staging area via CMS EFT where both systems can exchange files." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="478" y="-857" width="130" height="110" as="geometry" />
+          <mxGeometry x="428" y="-900.5" width="231" height="63" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a5I0SfgL3sO7LRwmwsKF-401" target="a5I0SfgL3sO7LRwmwsKF-343" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="468" y="-114.44444444444434" as="sourcePoint" />
+            <mxPoint x="468" y="-196.44444444444434" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-401" value="ORG needs to work with One Pl CloudOps team to define the process and present to TRB for guidance." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="468" y="-214" width="150" height="85" as="geometry" />
+          <mxGeometry x="468" y="-296" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-402" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-277" y="-672" width="40" height="30" as="geometry" />
+          <mxGeometry x="-277" y="-754" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-403" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-327" y="-737" width="40" height="30" as="geometry" />
+          <mxGeometry x="-327" y="-819" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-404" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-147" y="-737" width="40" height="30" as="geometry" />
+          <mxGeometry x="-147" y="-819" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-405" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-57" y="-672" width="40" height="30" as="geometry" />
+          <mxGeometry x="-57" y="-754" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-406" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="303" y="-737" width="40" height="30" as="geometry" />
+          <mxGeometry x="303" y="-819" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-407" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="303" y="-580" width="40" height="30" as="geometry" />
+          <mxGeometry x="303" y="-662" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-408" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="163" y="-505" width="40" height="30" as="geometry" />
+          <mxGeometry x="163" y="-587" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-409" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="403" y="-505" width="40" height="30" as="geometry" />
+          <mxGeometry x="403" y="-587" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-410" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="541" y="-410" width="40" height="30" as="geometry" />
+          <mxGeometry x="541" y="-492" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-411" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="543" y="-572" width="40" height="30" as="geometry" />
+          <mxGeometry x="543" y="-654" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-412" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="543" y="-737" width="40" height="30" as="geometry" />
+          <mxGeometry x="543" y="-819" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-413" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="638" y="-206" width="40" height="30" as="geometry" />
+          <mxGeometry x="638" y="-288" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-414" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="598" y="-355" width="40" height="30" as="geometry" />
+          <mxGeometry x="598" y="-437" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-415" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="541" y="-250" width="40" height="30" as="geometry" />
+          <mxGeometry x="541" y="-332" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-416" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="63" y="-400" width="40" height="30" as="geometry" />
+          <mxGeometry x="63" y="-482" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-417" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-82" y="-505" width="40" height="30" as="geometry" />
+          <mxGeometry x="-60" y="-580" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-418" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-157" y="-176" width="40" height="30" as="geometry" />
+          <mxGeometry x="23" y="-258" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-419" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-172" y="-310" width="40" height="30" as="geometry" />
+          <mxGeometry x="-77" y="-392" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5I0SfgL3sO7LRwmwsKF-423" value="&lt;u&gt;One PI Snowflake Storage Solutions&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-247" y="-1070" width="510" height="50" as="geometry" />
+          <mxGeometry x="-247" y="-1082" width="510" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
